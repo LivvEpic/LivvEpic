@@ -17,6 +17,9 @@ Needs are those basics which all living beings need and strive for, including us
 # Thrive
  Now, here we are. Let's see how can we not only survive or even just thrive, but also keep our planet happy and healthy for generations to come, while rocking out lives.
 
+# Sustain
+ This is where it becomes tricky, as this doesn't align with the new world order in which we are living in.
+
 <!--
 **LivvEpic/LivvEpic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
